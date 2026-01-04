@@ -5,7 +5,6 @@ body {
 
 /* Style for all paragraphs */
 p {
-    color: rgb (58,8,104;
     font-size: 16px;
     font-family: 'Times New Roman', serif;
 }
@@ -13,6 +12,5 @@ p {
 /* Style for the main heading */
 h1 {
     text-align: center; /* Puts the heading in the middle */
-    border: 2px solid rgb (77,182,243); /* Adds a blue border around the heading */
+    border: 10px solid rgb (77,182,243); /* Adds an orange border around the heading */
     padding: 10px; /* Adds space inside the border */
-
