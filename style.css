@@ -6,7 +6,7 @@ body {
 
 /* Style for all paragraphs */
 p {
-    color:(60, 6, 77);
+    color:purple;
  font-size: 16px;
     font-family: 'Times New Roman', serif;
 }
