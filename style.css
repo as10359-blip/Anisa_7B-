@@ -3,11 +3,25 @@ body {
 }
 
 #Baking {
-    background-color: rgb(213, 230, 235);
+    background-color: rgb(125,197,219);
 }
 
 #Karate {
-    background-color: rgb(213,230,235);
+    background-color: rgb(125,197,219);
+}
+
+#Acting {
+        background-color: rgb(125,197,219);
+}
+
+#Art
+    background-color: rgb(125,197,219);
+}
+
+#Traveling
+    background-color: rgb(125,197,219);
+}
+
 p {
   color: rgb(65, 12, 114);
   font-size: 18px;
